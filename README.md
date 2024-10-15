@@ -1,5 +1,5 @@
 
-# AML2PDF-API
+# ML2PDF-API
 This project is an API that generates links related to Microsoft Learn certification exams and learning paths. It is built using [Bun](https://bun.sh/) and follows a modular structure to handle requests and responses.
 
 This API is part of the ML2PDF project. You can find the related repository here: [ML2PDF Repository](https://github.com/edgarburgues/ml2pdf).
