@@ -1,0 +1,3 @@
+name = "ml2pdf-api"
+version = "0.1.0"
+entry = "index.js"

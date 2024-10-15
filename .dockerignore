@@ -1,0 +1,17 @@
+# Ignoramos node_modules si está presente (aunque Bun maneja sus propias dependencias)
+node_modules
+bun.lockb
+# Ignoramos el directorio de build si existe
+/build
+
+# Ignoramos archivos y directorios específicos que no son necesarios para la imagen Docker
+.dockerignore
+Dockerfile
+.git
+.gitignore
+.env
+*.log
+
+# Ignorar los archivos de configuración específicos del IDE/Editor
+.vscode/
+.idea/

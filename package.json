@@ -1,0 +1,17 @@
+{
+  "name": "ml2pdf-api",
+  "module": "src/server.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "pdf-lib": "^1.17.1",
+    "puppeteer": "^23.1.0"
+  }
+}
